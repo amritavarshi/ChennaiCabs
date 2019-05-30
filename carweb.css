@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Mandali&display=swap');
+
+.fira 
+{
+	font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+.mandali
+{
+	font-family: 'Mandali', sans-serif;
+}
+
+/*Navigation bar custom styles*/
+.navbar-light .navbar-nav .nav-link {
+    color: #999;
+    font-size: 28px;
+    font-weight: 800px;
+    line-height: 20px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover
+{
+	color: #e7580a;
+
+}
+
+/* Jumbotron Styles */
+
+.jumbotron
+{
+	text-align: center;
+	background: url('http://cdn.litlepups.net/2018/12/09/mustang-car-wallpaper-4k-4096x2160-resolution-wallpapers-hd-pub-background-of-illinois-liver.jpg') no-repeat;
+}
+
+.jumbotron .btn
+{
+	padding: 14px 24px;
+	font-size: 21px;
+	font-family: 'Fira Sans Condensed', sans-serif;
+	text-transform: uppercase;
+}
+
+.jumbotron h1
+{
+	color: white;
+	text-transform: uppercase;
+	font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+.jumbotron p
+{
+	color: white;
+	background: rgba(45,45,32,0.9);
+	padding: 30px 5px 30px 5px;
+
+}
+
+/* about us styling */
+
+.abouthead
+{ 
+	font-family: 'Fira Sans Condensed', sans-serif;
+	
+	font-size: 80px;
+	font-weight: 40px;
+}
+
+#about p
+{
+	text-align: justify-all;
+	font-family: 'Mandali', sans-serif;
+	font-size: 19px;
+}
+
+/*contact section styling */
+
+#contact h1
+{
+	font-family: 'Fira Sans Condensed', sans-serif;
+	
+	font-size: 80px;
+	font-weight: 40px;
+}
+
+#contact p
+{
+	
+	font-family: 'Mandali', sans-serif;
+	font-size: 19px;
+}
+
+/* Social media section styles*/
+
+#socialmedia h1
+{
+	font-family: 'Fira Sans Condensed', sans-serif;
+	
+	font-size: 80px;
+	font-weight: 40px;
+
+}
+
+#socialmedia a
+{
+
+	font-family: 'Mandali', sans-serif;
+	font-size: 19px;
+
+}
+
+/* footer styling*/
+
+footer
+{
+	margin-top: 30px;
+	background: #000;
+	color: #00091a
+	font-family: 'Mandali', sans-serif;
+	font-size: 19px;
+	text-align: center;
+
+}
+
+footer p
+{
+	color: white;
+}
